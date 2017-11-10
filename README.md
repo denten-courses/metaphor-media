@@ -1,12 +1,9 @@
----
-semester: Spring 2018
-number: CLEN 4xxx
-title: "Metaphor and Media"
-instructor: Dennis Tenen
-email: dt2406@columbia.edu
----
+# CLEN 4XXX: Metaphor and Media
 
-This course offers a survey of thinking about metaphors beginning with
+Spring 2018  
+Prof. Dennis Tenen | dt2406 at columbia  
+
+This course offers a survey of major works on metaphor, beginning with
 Aristotle and ending with contemporary cognitive and media theory. Appropriate
 for both undergraduate and graduate students, our sessions will involve weekly
 discussion and an occasional "lab" component, in which we will test our
@@ -61,78 +58,95 @@ early in the writing process.
 
 ## Resources
 
-The syllabus will be continually updated to match the pace of the course at:
-<https://github.com/denten-courses/form-formula-format>
+The syllabus is continually updated to match the pace of the course on our
+[GitHub page](https://github.com/denten-courses/metaphor-media). Weekly
+responses to the readings are due on Piazza. Please submit all homework
+assignments to the appropriate folder in Courseworks.
 
 ## Provisional Schedule & Reading List
 
 ### Week 1
 
-- Excerpts from Poetic and Rhetoric by Aristotle
-- Cicero *On Oratory*
+- Excerpts from Aristotle's *Poetics* and *Rhetoric*
+- Cicero, "On Oratory"
 
 ### Week 2
 
-- Quintilian, Institutes of oratory
-- Augustine "On Christian Doctrine"
+- Quintilian, "Institutes of Oratory"
+- Augustine, "On Christian Doctrine"
 
 ### Week 3
 
-- Francis Bacon *New Organon*
-- Giambattista Vico *The New Science*
-- Peter Ramus *Rhetiric*
+- Excerpts from Francis Bacon's *New Organon*,
+- Giambattista Vico's *The New Science*, and
+- *Rhetoric* by Peter Ramus
 
 ### Week 4
 
-- John Locke, *An Essay on Human Understanding*
-- Jean Jacques Rousseau
+- John Locke, An Essay on Human Understanding"
+- Jean Jacques Rousseau, "Second Discourse"
 
 ### Week 5
 
-- Johann Gottfried von Herder
-- Samuel Taylor Coleridge
+- Johann Gottfried von Herder, excerpts from *This Too a Philosophy of
+  History*
+- Samuel Taylor Coleridge, excerpts from *Biographia Literaria or Biographical
+  Sketches of My Literary Life and Opinions*
 
 ### Week 6
 
-- Friedrich Nietzsche "On Truth and Lie in an Extra-Moral Sense"
-- Hannah Arendt, *The Life of the Mind*
+- Friedrich Nietzsche, "On Truth and Lie in an Extra-Moral Sense"
+- Excerpts from Hannah Arendt's *The Life of the Mind*
+
+### Week 7
+
+- Viktor Shklovsky, "Art as Technique"
+- Readings from *The Philosophy of Rhetoric* by I.A. Richards
 
 ### Week 8
 
-- Claude Lévi-Strauss
-- Sigmund Freud
+- Stanley Jeyaraja Tambiah's, "Form and Meaning of Magical Acts" in *Culture,
+  Thought, and Social Action: An Anthropological Perspective*
+- Julia Kristeva, "Freud and Love: Treatment and Its Discontents"
 
 ### Week 9
 
-- Shklovsky
-- Julia Kristeva "Freud and Love: Treatment and Its Discontents."
+- Kenneth Burke, "Four Master Tropes" in *A Grammar of Motives*
+- Roman Jakobson, "Two Aspects of Language and Two Types of Disturbances"
+- Lacan' "The Agency of the Letter in the Unconscious or Reason Since Freud"
 
 ### Week 10
 
-- Kenneth Burke
-- Roman Jakobson
+- Selections from Erich Auerbach's *Mimesis: The Representation of Reality in
+  Western Literature*
+- Selections from Stephen Pepper's *World Hypotheses: A Study in Evidence*
 
 ### Week 11
 
-- Erich Auerbach Mimesis: The Representation of Reality in Western Literature
-  (1968)
-- Stephen C. Pepper  World Hypotheses: A Study in Evidence Hayden White
+- Jacques Derrida and F. C. T. Moore, "[White Mythology][121]"
+- Selections from Paul Ricoeur's *The Rule of Metaphor: Multi-disciplinary
+  Studies of the Creation of Meaning in Language*
+
+[121]: https://www.jstor.org/stable/468341?seq=1#page_scan_tab_contents
 
 ### Week 12
 
-- Derrida "White Mythology" (1972)
-- Ricoeur, Paul. The Rule of Metaphor: Multi-disciplinary Studies of the
-  Creation of Meaning in Language. Translated by Robert Czerny with Kathleen
-McLaughlin and John Costello. Toronto: University of Toronto Press, 1977.
+- Selections from *Persuasions and Performances: The Play of Tropes in
+  Culture* by James Fernandez.
+- Selections from Henry Louis Gates Jr., "The Signifying Monkey: A Theory of
+  African-American Literary Criticism"
 
 ### Week 13
 
-- Fernandez, James W. Persuasions and Performances: The Play of Tropes in
-  Culture. Bloomington: Indiana University Press, 1986.
-- Gates, Henry Louis, Jr. The Signifying Monkey: A Theory of African-American
-  Literary Criticism. New York: Oxford University Press, 1989.
+- Selections from *Metaphors We Live By*, George Lakoff and Mark Johnson
+- "Interface as Mimesis" by Brenda Laurel
 
 ### Week 14
 
-- George Lakoff and Mark Johnson Metaphors We Live By
-- Brenda Laurel Computers as Theater
+- "Why 'Dark Thoughts' Aren’t Really Dark: A Novel Algorithm for Metaphor
+  Identification" in *Computational Intelligence, Cognitive Algorithms, Mind,
+and Brain (CCMB)* by Dan Assaf, Yair Neuman, Yohai Cohen, Shlomo Arg- amon,
+Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel. 2013.
+- "Metaphor as a Medium for Emotion: An Empirical Study" by Saif M. Mohammad,
+  Ekaterina Shutova, and Peter D. Turney.
+
