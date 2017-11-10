@@ -145,8 +145,8 @@ assignments to the appropriate folder in Courseworks.
 
 - "Why 'Dark Thoughts' Aren’t Really Dark: A Novel Algorithm for Metaphor
   Identification" in *Computational Intelligence, Cognitive Algorithms, Mind,
-and Brain (CCMB)* by Dan Assaf, Yair Neuman, Yohai Cohen, Shlomo Arg- amon,
-Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel. 2013.
+and Brain (CCMB)* by Dan Assaf, Yair Neuman, Yohai Cohen, Shlomo Argamon,
+Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
 - "Metaphor as a Medium for Emotion: An Empirical Study" by Saif M. Mohammad,
   Ekaterina Shutova, and Peter D. Turney.
 
