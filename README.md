@@ -113,7 +113,7 @@ assignments to the appropriate folder in Courseworks.
 
 - Kenneth Burke, "Four Master Tropes" in *A Grammar of Motives*
 - Roman Jakobson, "Two Aspects of Language and Two Types of Disturbances"
-- Lacan' "The Agency of the Letter in the Unconscious or Reason Since Freud"
+- Lacan's "The Agency of the Letter in the Unconscious or Reason Since Freud"
 
 ### Week 10
 
