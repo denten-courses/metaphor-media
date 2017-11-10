@@ -17,9 +17,9 @@ a rooster "the trumpet of the morn," Shakespeare means to suggest a structural
 similarity between horn instruments and birds. Note that this similarity
 cannot pertain to the objects in their totality. The analogy applies to the
 call of the bird only or perhaps to the resemblance between a beak and the
-flute of a trumpet. The metaphor would fail yet again if there were no
+flute of a trumpet. The metaphor would also fail were we to find no
 perceivable analogies between birds and trumpets. Similarly, computer users
-who empty their virtual "trash bins," are promised the erasure of underlying
+who empty their virtual "trash bins" are promised the erasure of underlying
 data. The course will conclude by examining the metaphors implicit such media
 transformations.
 
