@@ -1,7 +1,8 @@
-# CLEN 4XXX: Metaphor and Media
+# CLEN 4910: Metaphor and Media
 
 Spring 2018  
 Prof. Dennis Tenen | dt2406 at columbia  
+M, W 4:10pm to 5:25pm  
 
 This course offers a survey of major works on metaphor, beginning with
 Aristotle and ending with contemporary cognitive and media theory. Appropriate
@@ -149,4 +150,8 @@ and Brain (CCMB)* by Dan Assaf, Yair Neuman, Yohai Cohen, Shlomo Argamon,
 Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
 - "Metaphor as a Medium for Emotion: An Empirical Study" by Saif M. Mohammad,
   Ekaterina Shutova, and Peter D. Turney.
+- "[Intersecting Word Vectors to Take Figurative Language to New Heights][141]" by
+  Andrea Gagliano & Emily Paul & Kyle Booten & Marti A. Hearst
+
+[141]: http://www.site.uottawa.ca/~szpak/pub/_CLfL2016_draft_proceedings.pdf#page=32
 
