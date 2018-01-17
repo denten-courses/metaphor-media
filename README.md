@@ -3,6 +3,7 @@
 Spring 2018  
 Prof. Dennis Tenen | dt2406 at columbia  
 M, W 4:10pm to 5:25pm  
+613 Hamilton Hall  
 
 This course offers a survey of major works on metaphor, beginning with
 Aristotle and ending with contemporary cognitive and media theory. Appropriate
@@ -34,14 +35,14 @@ the option to integrate the course's themes with the subject matter of their
 expertise.
 
 - 25%     Class & Online Participation<sup>†</sup>
-- 25%     Lab Worksheets
+- 25%     Metaphor Lab Worksheets
 - 25%     Midterm Exam
 - 25%     Final Exam
 
 OR (for graduate students only)<sup>††</sup>
 
-- 25%     Midterm Project Proposal
-- 25%     Final Project (individual or group, to be approved by instructor)
+- 25%     Midterm Project Proposal (requires an in-person consultation)
+- 25%     Final Project
 
 <sup>†</sup> Concise weekly forum posts responding to the reading, asking
 questions / sharing expertise regarding the lab assignments.
@@ -66,15 +67,30 @@ assignments to the appropriate folder in Courseworks.
 
 ## Provisional Schedule & Reading List
 
+### Week 0
+
+- Introductions
+
 ### Week 1
 
-- Excerpts from Aristotle's *Poetics* and *Rhetoric*
-- Cicero, "On Oratory"
+- Aristotle's *[Poetics][11]*, Ch. XXI, XXII, XXV
+- Aristotle's *[Rhetoric][12]*, Book III: Ch. 2, 3, 4, 10
+- Cicero, *[On Oratory][13]*, Book II:LXV (pp. 159-160) and Book III:XXXVIII-XLI (pp. 235-242)
+
+[11]: https://courseworks2.columbia.edu/courses/56904/files?preview=2276263
+[12]: https://courseworks2.columbia.edu/courses/56904/files?preview=2276699
+[13]: https://courseworks2.columbia.edu/courses/56904/files?preview=2276546
+
 
 ### Week 2
 
-- Quintilian, "Institutes of Oratory"
-- Augustine, "On Christian Doctrine"
+- Quintilian, *Institutes of Oratory V. [II][21] & [III][22]*, Vol II Book V: Ch 9 (pp.
+283-293); Vol III Book VIII: Ch 6 (pp 301-349).
+- Augustine, *[On Christian Doctrine][22]*
+
+[21]: https://courseworks2.columbia.edu/courses/56904/files?preview=2277285
+[22]: https://courseworks2.columbia.edu/courses/56904/files?preview=2277304
+[23]: 
 
 ### Week 3
 
