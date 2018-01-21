@@ -75,7 +75,8 @@ assignments to the appropriate folder in Courseworks.
 
 - Aristotle's *[Poetics][11]*, Ch. XXI, XXII, XXV
 - Aristotle's *[Rhetoric][12]*, Book III: Ch. 2, 3, 4, 10
-- Cicero, *[On Oratory][13]*, Book II:LXV (pp. 159-160) and Book III:XXXVIII-XLI (pp. 235-242)
+- Cicero, *[On Oratory][13]*, Book II:LXV (pp. 159-160) and Book
+  III:XXXVIII-XLIII (pp. 235-242)
 
 [11]: https://courseworks2.columbia.edu/courses/56904/files?preview=2276263
 [12]: https://courseworks2.columbia.edu/courses/56904/files?preview=2276699
