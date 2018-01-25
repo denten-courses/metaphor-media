@@ -91,7 +91,7 @@ assignments to the appropriate folder in Courseworks.
 80-104).
 
 [21]: https://courseworks2.columbia.edu/courses/56904/files?preview=2277285
-[22]: https://courseworks2.columbia.edu/courses/56904/files?preview=2277304
+[22]: https://courseworks2.columbia.edu/courses/56904/files?preview=2320377
 [23]: https://courseworks2.columbia.edu/courses/56904/files?preview=2278182
 
 ### Week 3
