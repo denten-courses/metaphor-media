@@ -99,6 +99,7 @@ assignments to the appropriate folder in Courseworks.
 - Giambattista Vico's [*The New
   Science*](https://archive.org/download/newscienceofgiam030174mbp/newscienceofgiam030174mbp.pdf),
 Book II,  Section II "Poetic Logic" (pp 114-152).
+- Erasmus *De Copia* and *Parabolae*
 - *Rhetoric* by Peter Ramus
 
 ### Week 4
