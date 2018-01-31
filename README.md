@@ -99,7 +99,6 @@ assignments to the appropriate folder in Courseworks.
 - Giambattista Vico's [*The New Science*][31], Book II,  Section II "Poetic
   Logic" (pp 114-152).
 - From [*De Copia*][32] by Erasmus Volume 24, Ch. 10-31 (pp. 304-348).
-- *Rhetoric* by Peter Ramus
 
 [31]: https://archive.org/download/newscienceofgiam030174mbp/newscienceofgiam030174mbp.pdf
 [32]: https://courseworks2.columbia.edu/courses/56904/files?preview=2350934
