@@ -105,11 +105,18 @@ assignments to the appropriate folder in Courseworks.
 
 ### Week 4
 
-- John Locke, An Essay on Human Understanding"
-- Jean Jacques Rousseau, "Second Discourse"
+- Francis Bacon, "The Idols of the Marketplace" in [*The New Organon*][41]
+XXXVI-LXI (pp 19-33).
+- Thomas Hobbes, from *Leviathan* Ch IV "Of Speech."
+- John Locke, from [*An Essay on Human Understanding*][42], Book III (pp
+396-465).
+
+[41]: https://courseworks2.columbia.edu/courses/56904/files?preview=2351193
+[42]: https://books.google.com/books/about/An_Essay_Concerning_Human_Understanding.html?id=pDNIAAAAMAAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false
 
 ### Week 5
 
+- Jean Jacques Rousseau, "Second Discourse"
 - Johann Gottfried von Herder, excerpts from *This Too a Philosophy of
   History*
 - Samuel Taylor Coleridge, excerpts from *Biographia Literaria or Biographical
