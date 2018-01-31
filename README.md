@@ -87,7 +87,7 @@ assignments to the appropriate folder in Courseworks.
 
 - Quintilian, *Institutes of Oratory [Vol II Book V:XI][21] (pp.  271-297);
   [Vol III Book VIII:VI][22] (pp 301-345).
-- From Augustine's *[On Christian Doctrine][22]*, Book III: Ch. 1-39 (pp.
+- From Augustine's *[On Christian Doctrine][23]*, Book III: Ch. 1-39 (pp.
 80-104).
 
 [21]: https://courseworks2.columbia.edu/courses/56904/files?preview=2277285
