@@ -107,12 +107,13 @@ assignments to the appropriate folder in Courseworks.
 
 - Francis Bacon, "The Idols of the Marketplace" in [*The New Organon*][41]
 XXXVI-LXI (pp 19-33).
-- Thomas Hobbes, from *Leviathan* Ch IV "Of Speech."
+- Thomas Hobbes, from [*Leviathan*][43] Ch IV "Of Speech."
 - John Locke, from [*An Essay on Human Understanding*][42], Book III (pp
 396-465).
 
 [41]: https://courseworks2.columbia.edu/courses/56904/files?preview=2351193
 [42]: https://books.google.com/books/about/An_Essay_Concerning_Human_Understanding.html?id=pDNIAAAAMAAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false
+[43]: https://books.google.com/books/download/Leviathan.pdf?id=2oc6AAAAMAAJ&output=pdf&sig=ACfU3U0l4HjJKjBN2NE6J7QqmAq4km0j4g
 
 ### Week 5
 
