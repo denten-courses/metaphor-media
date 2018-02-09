@@ -96,32 +96,36 @@ assignments to the appropriate folder in Courseworks.
 
 ### Week 3
 
+- From [*De Copia*][32] by Erasmus Volume 24, Ch. 10-31 (pp. 304-348).
 - Giambattista Vico's [*The New Science*][31], Book II,  Section II "Poetic
   Logic" (pp 114-152).
-- From [*De Copia*][32] by Erasmus Volume 24, Ch. 10-31 (pp. 304-348).
 
 [31]: https://archive.org/download/newscienceofgiam030174mbp/newscienceofgiam030174mbp.pdf
 [32]: https://courseworks2.columbia.edu/courses/56904/files?preview=2350934
 
 ### Week 4
 
+- Étienne Bonnot de Condillac, from [*Essay on the Origin of Human
+  Knowledge*][42], Part II, Section 8-15 (pp 150--195).
 - Francis Bacon, "The Idols of the Marketplace" in [*The New Organon*][41]
-XXXVI-LXI (pp 19-33).
-- Thomas Hobbes, from [*Leviathan*][43] Ch IV "Of Speech."
-- John Locke, from [*An Essay on Human Understanding*][42], Book III (pp
-396-465).
+  XXXVI-LXI (pp 19-33).
 
 [41]: https://courseworks2.columbia.edu/courses/56904/files?preview=2351193
-[42]: https://books.google.com/books/about/An_Essay_Concerning_Human_Understanding.html?id=pDNIAAAAMAAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false
-[43]: https://books.google.com/books/download/Leviathan.pdf?id=2oc6AAAAMAAJ&output=pdf&sig=ACfU3U0l4HjJKjBN2NE6J7QqmAq4km0j4g
+[42]: https://courseworks2.columbia.edu/courses/56904/files?preview=2412627
 
 ### Week 5
 
+- Thomas Hobbes, from [*Leviathan*][51] Ch IV "Of Speech."
+- John Locke, from [*An Essay on Human Understanding*][52], Book III (pp
+  396-465).
 - Jean Jacques Rousseau, "Second Discourse"
 - Johann Gottfried von Herder, excerpts from *This Too a Philosophy of
   History*
 - Samuel Taylor Coleridge, excerpts from *Biographia Literaria or Biographical
   Sketches of My Literary Life and Opinions*
+
+[51]: https://books.google.com/books/about/An_Essay_Concerning_Human_Understanding.html?id=pDNIAAAAMAAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false
+[52]: https://books.google.com/books/download/Leviathan.pdf?id=2oc6AAAAMAAJ&output=pdf&sig=ACfU3U0l4HjJKjBN2NE6J7QqmAq4km0j4g
 
 ### Week 6
 
