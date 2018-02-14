@@ -113,6 +113,8 @@ assignments to the appropriate folder in Courseworks.
 [41]: https://courseworks2.columbia.edu/courses/56904/files?preview=2351193
 [42]: https://courseworks2.columbia.edu/courses/56904/files?preview=2412627
 
+Lab: Dictionary of Metaphor
+
 ### Week 5
 
 - Thomas Hobbes, from [*Leviathan*][51] Ch IV "Of Speech."
