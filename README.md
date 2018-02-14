@@ -2,7 +2,7 @@
 
 Spring 2018  
 Prof. Dennis Tenen | dt2406 at columbia  
-M, W 4:10pm to 5:25pm  
+M, W 2:40pm to 3:55pm  
 613 Hamilton Hall  
 
 This course offers a survey of major works on metaphor, beginning with
