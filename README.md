@@ -117,8 +117,8 @@ assignments to the appropriate folder in Courseworks.
 
 ### Week 5
 
-- Thomas Hobbes, from [*Leviathan*][51] Ch IV "Of Speech."
-- John Locke, from [*An Essay on Human Understanding*][52], Book III (pp
+- Thomas Hobbes, from [*Leviathan*][52] Ch IV "Of Speech."
+- John Locke, from [*An Essay on Human Understanding*][51], Book III (pp
   396-465).
 - Jean Jacques Rousseau, "Second Discourse"
 - Johann Gottfried von Herder, excerpts from *This Too a Philosophy of
