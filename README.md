@@ -141,24 +141,32 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 ### Week 7
 
-- Samuel Taylor Coleridge, excerpts from *Biographia Literaria or Biographical
-  Sketches of My Literary Life and Opinions*
-- Friedrich Nietzsche, "On Truth and Lie in an Extra-Moral Sense"
-- Viktor Shklovsky, "Art as Technique"
-- Readings from *The Philosophy of Rhetoric* by I.A. Richards
-- Excerpts from Hannah Arendt's *The Life of the Mind*
+- Immanuel Kant, [*Critique of Judgement*][72] (1790), sections 49 (pp. 197-204) and
+59 (pp. 248-252).
+- ~~Samuel Taylor Coleridge, excerpts from [*Biographia Literaria or Biographical
+  Sketches of My Literary Life and Opinions*][71] (1817)~~
+- Friedrich Nietzsche, "[On Truth and Lies in a Nonmoral Sense][73]" (1873)
+- Gertrude Buck, *[The Metaphor: A Study in the Psychology of Rhetoric][74]* (1897)
+
+[71]: https://archive.org/download/biographialitera00colerich/biographialitera00colerich.pdf
+[72]: http://oll.libertyfund.org/sources/1899-facsimile-pdf-kant-the-critique-of-judgement/download
+[73]: https://courseworks2.columbia.edu/courses/56904/files?preview=2474860
+[74]: https://archive.org/download/metaphorstudyinp00buckrich/metaphorstudyinp00buckrich_bw.pdf
 
 ### Week 8
+
+- Viktor Shklovsky, "Art as Technique" (1917)
+- Readings from *The Philosophy of Rhetoric* (1936) by I.A. Richards, Lectures V, VI
+
+### Week 9
 
 - Stanley Jeyaraja Tambiah's, "Form and Meaning of Magical Acts" in *Culture,
   Thought, and Social Action: An Anthropological Perspective*
 - Julia Kristeva, "Freud and Love: Treatment and Its Discontents"
-
-### Week 9
-
 - Kenneth Burke, "Four Master Tropes" in *A Grammar of Motives*
 - Roman Jakobson, "Two Aspects of Language and Two Types of Disturbances"
 - Lacan's "The Agency of the Letter in the Unconscious or Reason Since Freud"
+- Excerpts from Hannah Arendt's *The Life of the Mind* (1978)
 
 ### Week 10
 
