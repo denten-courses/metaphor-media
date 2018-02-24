@@ -193,6 +193,8 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 - Selections from *Metaphors We Live By*, George Lakoff and Mark Johnson
 - "Interface as Mimesis" by Brenda Laurel
+- "What Metaphors Mean" Davidson
+- Roger White, *Structure of Metaphor*
 
 ### Week 14
 
