@@ -156,7 +156,8 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 ### Week 8
 
 - Viktor Shklovsky, "Art as Technique" (1917)
-- Readings from *The Philosophy of Rhetoric* (1936) by I.A. Richards, Lectures V, VI
+- Readings from *The Philosophy of Rhetoric* (1936) by I.A. Richards, Lectures
+  V, VI
 
 ### Week 9
 
@@ -165,14 +166,16 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 - Julia Kristeva, "Freud and Love: Treatment and Its Discontents"
 - Kenneth Burke, "Four Master Tropes" in *A Grammar of Motives*
 - Roman Jakobson, "Two Aspects of Language and Two Types of Disturbances"
+- Selections from Erich Auerbach's *Mimesis: The Representation of Reality in
+  Western Literature* (1946)
 - Lacan's "The Agency of the Letter in the Unconscious or Reason Since Freud"
-- Excerpts from Hannah Arendt's *The Life of the Mind* (1978)
+  (1957)
+- William Empson “Metaphor” in *Structure of Complex Words* (1951)
 
 ### Week 10
 
-- Selections from Erich Auerbach's *Mimesis: The Representation of Reality in
-  Western Literature*
 - Selections from Stephen Pepper's *World Hypotheses: A Study in Evidence*
+- Excerpts from Hannah Arendt's *The Life of the Mind* (1978)
 
 ### Week 11
 
@@ -195,6 +198,11 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 - "Interface as Mimesis" by Brenda Laurel
 - "What Metaphors Mean" Davidson
 - Roger White, *Structure of Metaphor*
+- Donald Davidson, “What Metaphors Mean”
+- Max Black, “How Metaphors Work: A Reply to Donald Davidson”
+- Reading Max Black, “More About Metaphor”
+- John Searle, “Metaphor”
+- Cleanth Brooks on “Metaphor, Paradox, and Stereotype.” Poems
 
 ### Week 14
 
