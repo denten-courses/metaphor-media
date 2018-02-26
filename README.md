@@ -158,39 +158,39 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 - Viktor Shklovsky, "Art as Technique" (1917)
 - Readings from *The Philosophy of Rhetoric* (1936) by I.A. Richards, Lectures
   V, VI
+- Kenneth Burke, "Four Master Tropes" in *A Grammar of Motives* (1945)
 
 ### Week 9
 
-- Stanley Jeyaraja Tambiah's, "Form and Meaning of Magical Acts" in *Culture,
-  Thought, and Social Action: An Anthropological Perspective*
-- Julia Kristeva, "Freud and Love: Treatment and Its Discontents"
-- Kenneth Burke, "Four Master Tropes" in *A Grammar of Motives*
-- Roman Jakobson, "Two Aspects of Language and Two Types of Disturbances"
 - Selections from Erich Auerbach's *Mimesis: The Representation of Reality in
   Western Literature* (1946)
+- Roman Jakobson, "Two Aspects of Language and Two Types of Disturbances"
+- William Empson “Metaphor” in *Structure of Complex Words* (1951)
+
 - Lacan's "The Agency of the Letter in the Unconscious or Reason Since Freud"
   (1957)
-- William Empson “Metaphor” in *Structure of Complex Words* (1951)
+- Julia Kristeva, "Freud and Love: Treatment and Its Discontents" (1983)
 
 ### Week 10
 
-- Selections from Stephen Pepper's *World Hypotheses: A Study in Evidence*
+- Stanley Jeyaraja Tambiah's, "Form and Meaning of Magical Acts" in *Culture,
+  Thought, and Social Action: An Anthropological Perspective* (1973)
 - Excerpts from Hannah Arendt's *The Life of the Mind* (1978)
 
 ### Week 11
 
-- Jacques Derrida and F. C. T. Moore, "[White Mythology][121]"
+- Jacques Derrida and F. C. T. Moore, "[White Mythology][121]" (1974)
 - Selections from Paul Ricoeur's *The Rule of Metaphor: Multi-disciplinary
-  Studies of the Creation of Meaning in Language*
+  Studies of the Creation of Meaning in Language* (1978)
 
 [121]: https://www.jstor.org/stable/468341?seq=1#page_scan_tab_contents
 
 ### Week 12
 
 - Selections from *Persuasions and Performances: The Play of Tropes in
-  Culture* by James Fernandez.
+  Culture* (1986) by James Fernandez.
 - Selections from Henry Louis Gates Jr., "The Signifying Monkey: A Theory of
-  African-American Literary Criticism"
+  African-American Literary Criticism" (1989)
 
 ### Week 13
 
@@ -214,6 +214,8 @@ Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
   Ekaterina Shutova, and Peter D. Turney.
 - "[Intersecting Word Vectors to Take Figurative Language to New Heights][141]" by
   Andrea Gagliano & Emily Paul & Kyle Booten & Marti A. Hearst
+- Selections from Stephen Pepper's *World Hypotheses: A Study in Evidence*
+(1992)
 
 [141]: http://www.site.uottawa.ca/~szpak/pub/_CLfL2016_draft_proceedings.pdf#page=32
 
