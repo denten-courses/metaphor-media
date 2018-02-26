@@ -131,7 +131,7 @@ assignments to the appropriate folder in Courseworks.
   Blind, or Lost His Sight so Early, That He Had no Remembrance of Ever Having
 Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden in
 *Philosophical Transactions*, Vol. 35. (1727–1728), pp. 447–450.
-- Dennis Diderot, "[Letter on the Blind][62]" (1749), pages 91-141.
+- Dennis Diderot, "[Letter on the Blind][62]" (1749), pages ~~91-141~~ 68-91.
 - Part 1 in Johann Gottfried von Herder's [*Sculpture*][61] (1778), pages
   33-46.
 
