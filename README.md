@@ -214,8 +214,8 @@ Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
   Ekaterina Shutova, and Peter D. Turney.
 - "[Intersecting Word Vectors to Take Figurative Language to New Heights][141]" by
   Andrea Gagliano & Emily Paul & Kyle Booten & Marti A. Hearst
-- Selections from Stephen Pepper's *World Hypotheses: A Study in Evidence*
-(1992)
+- ~~Selections from Stephen Pepper's *World Hypotheses: A Study in Evidence*
+(1992)~~
 
 [141]: http://www.site.uottawa.ca/~szpak/pub/_CLfL2016_draft_proceedings.pdf#page=32
 
