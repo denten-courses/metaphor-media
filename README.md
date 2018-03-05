@@ -141,7 +141,7 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 ### Week 7
 
-- Immanuel Kant, [*Critique of Judgement*][72] (1790), sections 49 (pp. 197-204) and
+- Immanuel Kant, [*Critique of Judgement*][72] (1790), sections 49 (pp. 197-205) and
 59 (pp. 248-252).
 - ~~Samuel Taylor Coleridge, excerpts from [*Biographia Literaria or Biographical
   Sketches of My Literary Life and Opinions*][71] (1817)~~
