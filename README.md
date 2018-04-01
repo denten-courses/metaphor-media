@@ -155,10 +155,14 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 ### Week 8
 
-- Viktor Shklovsky, "Art as Technique" (1917)
+- Viktor Shklovsky, "[The Resurrection of the Word][82]" (1914)
+- Viktor Shklovsky, "[Art, As Device][81]" (1917)
 - Readings from *The Philosophy of Rhetoric* (1936) by I.A. Richards, Lectures
   V, VI
 - Kenneth Burke, "Four Master Tropes" in *A Grammar of Motives* (1945)
+
+[81]: https://read-dukeupress-edu.ezproxy.cul.columbia.edu/poetics-today/article/36/3/151-174/21143
+[82]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660889
 
 ### Week 9
 
