@@ -169,54 +169,41 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 ### Week 9
 
-- ~~Selections from Erich Auerbach's *Mimesis: The Representation of Reality
-  in Western Literature* (1946)~~
 - Roman Jakobson, "[Two Aspects of Language and Two Types of
   Disturbances][92]"
+- Stanley Jeyaraja Tambiah's, "[The Magical Power of Words][102]" (1968).
 - Lacan's "[The Agency of the Letter in the Unconscious or Reason Since
   Freud][91]" (1957)
 - Julia Kristeva, "Breaching the Thetic: Mimesis" (pp. 57-61 in [*Revolution in
   Poetic Language*][93], 1984).
+- ~~Selections from Erich Auerbach's *Mimesis: The Representation of Reality
+  in Western Literature* (1946)~~
+- ~~Stanley Jeyaraja Tambiah's, "[Form and Meaning of Magical Acts][101]" in *Culture,
+  Thought, and Social Action: An Anthropological Perspective* (1973)~~
 
 [91]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660957
 [92]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660960
 [92]: https://courseworks2.columbia.edu/courses/56904/files?preview=2661582
+[101]: https://www.haujournal.org/index.php/hau/article/view/hau7.3.030
+[102]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/2798500?seq=1#page_scan_tab_contents
 
 ### Week 10
 
-- Stanley Jeyaraja Tambiah's, "Form and Meaning of Magical Acts" in *Culture,
-  Thought, and Social Action: An Anthropological Perspective* (1973)
-- Excerpts from Hannah Arendt's *The Life of the Mind* (1978)
+- Jacques Derrida and F. C. T. Moore, "[White Mythology][111]" (1974).
+- ~~Selections from Paul Ricoeur's *The Rule of Metaphor: Multi-disciplinary
+  Studies of the Creation of Meaning in Language* (1978)~~
+- "[Metaphor and the Main Problem of Hermeneutics][112]" by Paul Ricoeur.
+- Hannah Arendt, "Language and Metaphor" and "Metaphor and the Ineffable" in
+  [*The Life of the Mind*][113] (1975), pp. 98-129.
 
-### Week 11
-
-- Jacques Derrida and F. C. T. Moore, "[White Mythology][121]" (1974)
-- Selections from Paul Ricoeur's *The Rule of Metaphor: Multi-disciplinary
-  Studies of the Creation of Meaning in Language* (1978)
-
-[121]: https://www.jstor.org/stable/468341?seq=1#page_scan_tab_contents
-
-### Week 12
-
-- Selections from *Persuasions and Performances: The Play of Tropes in
-  Culture* (1986) by James Fernandez.
-- Selections from Henry Louis Gates Jr., "The Signifying Monkey: A Theory of
-  African-American Literary Criticism" (1989)
+[111]: https://www.jstor.org/stable/468341?seq=1#page_scan_tab_contents
+[112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/468343?seq=1#page_scan_tab_contents
+[113]: https://courseworks2.columbia.edu/courses/56904/files?preview=2661709
 
 ### Week 13
 
 - Selections from *Metaphors We Live By*, George Lakoff and Mark Johnson
 - "Interface as Mimesis" by Brenda Laurel
-- "What Metaphors Mean" Davidson
-- Roger White, *Structure of Metaphor*
-- Donald Davidson, “What Metaphors Mean”
-- Max Black, “How Metaphors Work: A Reply to Donald Davidson”
-- Reading Max Black, “More About Metaphor”
-- John Searle, “Metaphor”
-- Cleanth Brooks on “Metaphor, Paradox, and Stereotype.” Poems
-
-### Week 14
-
 - "Why 'Dark Thoughts' Aren’t Really Dark: A Novel Algorithm for Metaphor
   Identification" in *Computational Intelligence, Cognitive Algorithms, Mind,
 and Brain (CCMB)* by Dan Assaf, Yair Neuman, Yohai Cohen, Shlomo Argamon,
@@ -230,3 +217,19 @@ Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
 
 [141]: http://www.site.uottawa.ca/~szpak/pub/_CLfL2016_draft_proceedings.pdf#page=32
 
+### Week 12
+
+- "What Metaphors Mean" Davidson
+- Roger White, *Structure of Metaphor*
+- Donald Davidson, “What Metaphors Mean”
+- Max Black, “How Metaphors Work: A Reply to Donald Davidson”
+- Reading Max Black, “More About Metaphor”
+- John Searle, “Metaphor”
+- ~~Cleanth Brooks on “Metaphor, Paradox, and Stereotype.” Poems~~
+
+### Week 14
+
+- Selections from *Persuasions and Performances: The Play of Tropes in
+  Culture* (1986) by James Fernandez.
+- Selections from Henry Louis Gates Jr., "The Signifying Monkey: A Theory of
+  African-American Literary Criticism" (1989)
