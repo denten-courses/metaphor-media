@@ -160,6 +160,7 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 - Readings from *The Philosophy of Rhetoric* (1936) by I.A. Richards, [Lectures
   V, VI][83].
 - Kenneth Burke, "[Four Master Tropes][84]" (1941).
+- ~~William Empson “Metaphor” in *Structure of Complex Words* (1951)~~
 
 [81]: https://read-dukeupress-edu.ezproxy.cul.columbia.edu/poetics-today/article/36/3/151-174/21143
 [82]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660889
@@ -168,14 +169,18 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 ### Week 9
 
-- Selections from Erich Auerbach's *Mimesis: The Representation of Reality in
-  Western Literature* (1946)
-- Roman Jakobson, "Two Aspects of Language and Two Types of Disturbances"
-- William Empson “Metaphor” in *Structure of Complex Words* (1951)
+- ~~Selections from Erich Auerbach's *Mimesis: The Representation of Reality
+  in Western Literature* (1946)~~
+- Roman Jakobson, "[Two Aspects of Language and Two Types of
+  Disturbances][92]"
+- Lacan's "[The Agency of the Letter in the Unconscious or Reason Since
+  Freud][91]" (1957)
+- Julia Kristeva, "Breaching the Thetic: Mimesis" (pp. 57-61 in [*Revolution in
+  Poetic Language*][93], 1984).
 
-- Lacan's "The Agency of the Letter in the Unconscious or Reason Since Freud"
-  (1957)
-- Julia Kristeva, "Freud and Love: Treatment and Its Discontents" (1983)
+[91]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660957
+[92]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660960
+[92]: https://courseworks2.columbia.edu/courses/56904/files?preview=2661582
 
 ### Week 10
 
