@@ -157,12 +157,14 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 - Viktor Shklovsky, "[The Resurrection of the Word][82]" (1914)
 - Viktor Shklovsky, "[Art, As Device][81]" (1917)
-- Readings from *The Philosophy of Rhetoric* (1936) by I.A. Richards, Lectures
-  V, VI
-- Kenneth Burke, "Four Master Tropes" in *A Grammar of Motives* (1945)
+- Readings from *The Philosophy of Rhetoric* (1936) by I.A. Richards, [Lectures
+  V, VI][83].
+- Kenneth Burke, "[Four Master Tropes][84]" (1941).
 
 [81]: https://read-dukeupress-edu.ezproxy.cul.columbia.edu/poetics-today/article/36/3/151-174/21143
 [82]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660889
+[83]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660928
+[84]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/4332286?seq=1#page_scan_tab_contents
 
 ### Week 9
 
