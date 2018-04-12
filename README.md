@@ -189,20 +189,22 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 ### Week 10
 
-- Jacques Derrida and F. C. T. Moore, "[White Mythology][111]" (1974).
+- ~~Jacques Derrida and F. C. T. Moore, "[White Mythology][111]" (1974).~~
 - ~~Selections from Paul Ricoeur's *The Rule of Metaphor: Multi-disciplinary
   Studies of the Creation of Meaning in Language* (1978)~~
-- "[Metaphor and the Main Problem of Hermeneutics][112]" by Paul Ricoeur.
+- ~~"[Metaphor and the Main Problem of Hermeneutics][112]" by Paul Ricoeur.~~
 - Hannah Arendt, "Language and Metaphor" and "Metaphor and the Ineffable" in
   [*The Life of the Mind*][113] (1975), pp. 98-129.
+- [*Metaphors We Live By*][114] (1980), pp. 3-52 & 156-195 by George Lakoff
+  and Mark Johnson.
 
 [111]: https://www.jstor.org/stable/468341?seq=1#page_scan_tab_contents
 [112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/468343?seq=1#page_scan_tab_contents
 [113]: https://courseworks2.columbia.edu/courses/56904/files?preview=2661709
+[114]: https://courseworks2.columbia.edu/courses/56904/files?preview=2729259
 
-### Week 13
+### Week 11
 
-- Selections from *Metaphors We Live By*, George Lakoff and Mark Johnson
 - "Interface as Mimesis" by Brenda Laurel
 - "Why 'Dark Thoughts' Aren’t Really Dark: A Novel Algorithm for Metaphor
   Identification" in *Computational Intelligence, Cognitive Algorithms, Mind,
@@ -217,19 +219,19 @@ Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
 
 [141]: http://www.site.uottawa.ca/~szpak/pub/_CLfL2016_draft_proceedings.pdf#page=32
 
-### Week 12
+### Overflow 1
 
-- "What Metaphors Mean" Davidson
-- Roger White, *Structure of Metaphor*
-- Donald Davidson, “What Metaphors Mean”
-- Max Black, “How Metaphors Work: A Reply to Donald Davidson”
-- Reading Max Black, “More About Metaphor”
-- John Searle, “Metaphor”
+- ~~"What Metaphors Mean" Davidson~~
+- ~~Roger White, *Structure of Metaphor*~~
+- ~~Donald Davidson, “What Metaphors Mean”~~
+- ~~Max Black, “How Metaphors Work: A Reply to Donald Davidson”~~
+- ~~Reading Max Black, “More About Metaphor”~~
+- ~~John Searle, “Metaphor”~~
 - ~~Cleanth Brooks on “Metaphor, Paradox, and Stereotype.” Poems~~
 
-### Week 14
+### Overflow 2
 
-- Selections from *Persuasions and Performances: The Play of Tropes in
-  Culture* (1986) by James Fernandez.
-- Selections from Henry Louis Gates Jr., "The Signifying Monkey: A Theory of
-  African-American Literary Criticism" (1989)
+- ~~Selections from *Persuasions and Performances: The Play of Tropes in
+  Culture* (1986) by James Fernandez.~~
+- ~~Selections from Henry Louis Gates Jr., "The Signifying Monkey: A Theory of
+  African-American Literary Criticism" (1989)~~
