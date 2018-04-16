@@ -172,10 +172,10 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 - Roman Jakobson, "[Two Aspects of Language and Two Types of
   Disturbances][92]"
 - Stanley Jeyaraja Tambiah's, "[The Magical Power of Words][102]" (1968).
-- Lacan's "[The Agency of the Letter in the Unconscious or Reason Since
-  Freud][91]" (1957)
-- Julia Kristeva, "Breaching the Thetic: Mimesis" (pp. 57-61 in [*Revolution in
-  Poetic Language*][93], 1984).
+- ~~Lacan's "[The Agency of the Letter in the Unconscious or Reason Since
+  Freud][91]" (1957)~~
+- ~~Julia Kristeva, "Breaching the Thetic: Mimesis" (pp. 57-61 in [*Revolution in
+  Poetic Language*][93], 1984).~~
 - ~~Selections from Erich Auerbach's *Mimesis: The Representation of Reality
   in Western Literature* (1946)~~
 - ~~Stanley Jeyaraja Tambiah's, "[Form and Meaning of Magical Acts][101]" in *Culture,
@@ -183,7 +183,7 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 [91]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660957
 [92]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660960
-[92]: https://courseworks2.columbia.edu/courses/56904/files?preview=2661582
+[93]: https://courseworks2.columbia.edu/courses/56904/files?preview=2661582
 [101]: https://www.haujournal.org/index.php/hau/article/view/hau7.3.030
 [102]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/2798500?seq=1#page_scan_tab_contents
 
