@@ -207,21 +207,32 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 [114]: https://courseworks2.columbia.edu/courses/56904/files?preview=2729259
 [115]: https://www-tandfonline-com.ezproxy.cul.columbia.edu/doi/abs/10.1207/s15327868ms0202_5?journalCode=hmet19
 
-### Week 11
+### Week 11 & 12
 
-- "Interface as Mimesis" by Brenda Laurel
-- "Why 'Dark Thoughts' Aren’t Really Dark: A Novel Algorithm for Metaphor
-  Identification" in *Computational Intelligence, Cognitive Algorithms, Mind,
+- *[Apple Human Interface Guidelines: The Apple Desktop Interface][110]*
+  (1987). Pages 3, 10, 20, 22--23.
+- "Chapter 5: Design Principles for Human--Computer Activity" by Brenda
+  Laurel, in *[Computers as Theater][111]* (1991), pages 125--166.
+- Carroll, J.M., and John C. Thomas. 1982. “[Metaphor and the Cognitive
+  Representation of Computing Systems][112].” IEEE Transactions on Systems, Man and
+Cybernetics 12 (2): 107–16.
+- "[Why 'Dark Thoughts' Aren’t Really Dark: A Novel Algorithm for Metaphor
+  Identification][120]" in *Computational Intelligence, Cognitive Algorithms, Mind,
 and Brain (CCMB)* by Dan Assaf, Yair Neuman, Yohai Cohen, Shlomo Argamon,
 Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
-- "Metaphor as a Medium for Emotion: An Empirical Study" by Saif M. Mohammad,
+- "[Metaphor as a Medium for Emotion: An Empirical Study][121]" by Saif M. Mohammad,
   Ekaterina Shutova, and Peter D. Turney.
-- "[Intersecting Word Vectors to Take Figurative Language to New Heights][141]" by
+- "[Intersecting Word Vectors to Take Figurative Language to New Heights][122]" by
   Andrea Gagliano & Emily Paul & Kyle Booten & Marti A. Hearst
 - ~~Selections from Stephen Pepper's *World Hypotheses: A Study in Evidence*
 (1992)~~
 
-[141]: http://www.site.uottawa.ca/~szpak/pub/_CLfL2016_draft_proceedings.pdf#page=32
+[110]: https://archive.org/details/applehumaninterf00appl
+[111]: https://courseworks2.columbia.edu/courses/56904/files?preview=2774949
+[112]: https://ieeexplore.ieee.org/document/4308795/
+[120]: https://ieeexplore-ieee-org.ezproxy.cul.columbia.edu/abstract/document/6609166/
+[121]: http://www.aclweb.org/anthology/S16-2003
+[122]: http://www.site.uottawa.ca/~szpak/pub/_CLfL2016_draft_proceedings.pdf#page=32
 
 ### Overflow 1
 
