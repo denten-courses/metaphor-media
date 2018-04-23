@@ -189,23 +189,23 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 ### Week 10
 
-- ~~Jacques Derrida and F. C. T. Moore, "[White Mythology][111]" (1974).~~
+- ~~Jacques Derrida and F. C. T. Moore, "[White Mythology][101]" (1974).~~
 - ~~Selections from Paul Ricoeur's *The Rule of Metaphor: Multi-disciplinary
   Studies of the Creation of Meaning in Language* (1978)~~
-- ~~"[Metaphor and the Main Problem of Hermeneutics][112]" by Paul Ricoeur.~~
+- ~~"[Metaphor and the Main Problem of Hermeneutics][102]" by Paul Ricoeur.~~
 - Hannah Arendt, "Language and Metaphor" and "Metaphor and the Ineffable" in
-  [*The Life of the Mind*][113] (1975), pp. 98-129.
-- [*Metaphors We Live By*][114] (1980), pp. 3-52 by George Lakoff and Mark
+  [*The Life of the Mind*][103] (1975), pp. 98-129.
+- [*Metaphors We Live By*][104] (1980), pp. 3-52 by George Lakoff and Mark
   Johnson.
-- Lakoff, George. “[The Death of Dead Metaphor][115].” Metaphor and Symbolic Activity
+- Lakoff, George. “[The Death of Dead Metaphor][105].” Metaphor and Symbolic Activity
   2, no. 2 (June 1987): 143–47.
 
 
-[111]: https://www.jstor.org/stable/468341?seq=1#page_scan_tab_contents
-[112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/468343?seq=1#page_scan_tab_contents
-[113]: https://courseworks2.columbia.edu/courses/56904/files?preview=2661709
-[114]: https://courseworks2.columbia.edu/courses/56904/files?preview=2729259
-[115]: https://www-tandfonline-com.ezproxy.cul.columbia.edu/doi/abs/10.1207/s15327868ms0202_5?journalCode=hmet19
+[101]: https://www.jstor.org/stable/468341?seq=1#page_scan_tab_contents
+[102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/468343?seq=1#page_scan_tab_contents
+[103]: https://courseworks2.columbia.edu/courses/56904/files?preview=2661709
+[104]: https://courseworks2.columbia.edu/courses/56904/files?preview=2729259
+[105]: https://www-tandfonline-com.ezproxy.cul.columbia.edu/doi/abs/10.1207/s15327868ms0202_5?journalCode=hmet19
 
 ### Week 11 & 12
 
