@@ -120,7 +120,7 @@ assignments to the appropriate folder in Courseworks.
 - Thomas Hobbes, from [*Leviathan*][52] (1651) Ch IV "Of Speech."
 - John Locke, from [*An Essay on Human Understanding*][51] (1689), Book III (pp
   396-465).
-- ~~Jean Jacques Rousseau, "Second Discourse" (1754)~~
+- Jean Jacques Rousseau, "Second Discourse" (1754)
 
 [51]: https://books.google.com/books/about/An_Essay_Concerning_Human_Understanding.html?id=pDNIAAAAMAAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false
 [52]: https://books.google.com/books/download/Leviathan.pdf?id=2oc6AAAAMAAJ&output=pdf&sig=ACfU3U0l4HjJKjBN2NE6J7QqmAq4km0j4g
@@ -143,8 +143,8 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 - Immanuel Kant, [*Critique of Judgement*][72] (1790), sections 49 (pp. 197-205) and
 59 (pp. 248-252).
-- ~~Samuel Taylor Coleridge, excerpts from [*Biographia Literaria or Biographical
-  Sketches of My Literary Life and Opinions*][71] (1817)~~
+- Samuel Taylor Coleridge, excerpts from [*Biographia Literaria or Biographical
+  Sketches of My Literary Life and Opinions*][71] (1817)
 - Friedrich Nietzsche, "[On Truth and Lies in a Nonmoral Sense][73]" (1873)
 - Gertrude Buck, *[The Metaphor: A Study in the Psychology of Rhetoric][74]* (1897)
 
@@ -160,7 +160,7 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 - Readings from *The Philosophy of Rhetoric* (1936) by I.A. Richards, [Lectures
   V, VI][83].
 - Kenneth Burke, "[Four Master Tropes][84]" (1941).
-- ~~William Empson “Metaphor” in *Structure of Complex Words* (1951)~~
+- William Empson “Metaphor” in *Structure of Complex Words* (1951)
 
 [81]: https://read-dukeupress-edu.ezproxy.cul.columbia.edu/poetics-today/article/36/3/151-174/21143
 [82]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660889
@@ -171,28 +171,28 @@ Seen, and Was Couch'd between 13 and 14 Years of Age][63]" by William Cheselden 
 
 - Roman Jakobson, "[Two Aspects of Language and Two Types of
   Disturbances][92]"
-- Stanley Jeyaraja Tambiah's, "[The Magical Power of Words][102]" (1968).
-- ~~Lacan's "[The Agency of the Letter in the Unconscious or Reason Since
-  Freud][91]" (1957)~~
-- ~~Julia Kristeva, "Breaching the Thetic: Mimesis" (pp. 57-61 in [*Revolution in
-  Poetic Language*][93], 1984).~~
-- ~~Selections from Erich Auerbach's *Mimesis: The Representation of Reality
-  in Western Literature* (1946)~~
-- ~~Stanley Jeyaraja Tambiah's, "[Form and Meaning of Magical Acts][101]" in *Culture,
-  Thought, and Social Action: An Anthropological Perspective* (1973)~~
+- Stanley Jeyaraja Tambiah's, "[The Magical Power of Words][902]" (1968).
+- Lacan's "[The Agency of the Letter in the Unconscious or Reason Since
+  Freud][91]" (1957)
+- Julia Kristeva, "Breaching the Thetic: Mimesis" (pp. 57-61 in [*Revolution in
+  Poetic Language*][93], 1984).
+- Selections from Erich Auerbach's *Mimesis: The Representation of Reality
+  in Western Literature* (1946)
+- Stanley Jeyaraja Tambiah's, "[Form and Meaning of Magical Acts][901]" in *Culture,
+  Thought, and Social Action: An Anthropological Perspective* (1973)
 
 [91]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660957
 [92]: https://courseworks2.columbia.edu/courses/56904/files?preview=2660960
 [93]: https://courseworks2.columbia.edu/courses/56904/files?preview=2661582
-[101]: https://www.haujournal.org/index.php/hau/article/view/hau7.3.030
-[102]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/2798500?seq=1#page_scan_tab_contents
+[901]: https://www.haujournal.org/index.php/hau/article/view/hau7.3.030
+[902]: http://www.jstor.org.ezproxy.cul.columbia.edu/stable/2798500?seq=1#page_scan_tab_contents
 
 ### Week 10
 
-- ~~Jacques Derrida and F. C. T. Moore, "[White Mythology][101]" (1974).~~
-- ~~Selections from Paul Ricoeur's *The Rule of Metaphor: Multi-disciplinary
-  Studies of the Creation of Meaning in Language* (1978)~~
-- ~~"[Metaphor and the Main Problem of Hermeneutics][102]" by Paul Ricoeur.~~
+- Jacques Derrida and F. C. T. Moore, "[White Mythology][101]" (1974).
+- Selections from Paul Ricoeur's *The Rule of Metaphor: Multi-disciplinary
+  Studies of the Creation of Meaning in Language* (1978)
+- Metaphor and the Main Problem of Hermeneutics][102]" by Paul Ricoeur.
 - Hannah Arendt, "Language and Metaphor" and "Metaphor and the Ineffable" in
   [*The Life of the Mind*][103] (1975), pp. 98-129.
 - [*Metaphors We Live By*][104] (1980), pp. 3-52 by George Lakoff and Mark
@@ -224,8 +224,7 @@ Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
   Ekaterina Shutova, and Peter D. Turney.
 - "[Intersecting Word Vectors to Take Figurative Language to New Heights][122]" by
   Andrea Gagliano & Emily Paul & Kyle Booten & Marti A. Hearst
-- ~~Selections from Stephen Pepper's *World Hypotheses: A Study in Evidence*
-(1992)~~
+- Selections from Stephen Pepper's *World Hypotheses: A Study in Evidence* (1992)
 
 [110]: https://archive.org/details/applehumaninterf00appl
 [111]: https://courseworks2.columbia.edu/courses/56904/files?preview=2774949
@@ -236,17 +235,17 @@ Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
 
 ### Overflow 1
 
-- ~~"What Metaphors Mean" Davidson~~
-- ~~Roger White, *Structure of Metaphor*~~
-- ~~Donald Davidson, “What Metaphors Mean”~~
-- ~~Max Black, “How Metaphors Work: A Reply to Donald Davidson”~~
-- ~~Reading Max Black, “More About Metaphor”~~
-- ~~John Searle, “Metaphor”~~
-- ~~Cleanth Brooks on “Metaphor, Paradox, and Stereotype.” Poems~~
+- "What Metaphors Mean" Davidson
+- Roger White, *Structure of Metaphor*
+- Donald Davidson, “What Metaphors Mean”
+- Max Black, “How Metaphors Work: A Reply to Donald Davidson”
+- Reading Max Black, “More About Metaphor”
+- John Searle, “Metaphor”
+- Cleanth Brooks on “Metaphor, Paradox, and Stereotype.” Poems
 
 ### Overflow 2
 
-- ~~Selections from *Persuasions and Performances: The Play of Tropes in
-  Culture* (1986) by James Fernandez.~~
-- ~~Selections from Henry Louis Gates Jr., "The Signifying Monkey: A Theory of
-  African-American Literary Criticism" (1989)~~
+- Selections from *Persuasions and Performances: The Play of Tropes in
+  Culture* (1986) by James Fernandez.
+- Selections from Henry Louis Gates Jr., "The Signifying Monkey: A Theory 
+  African-American Literary Criticism" (1989)
