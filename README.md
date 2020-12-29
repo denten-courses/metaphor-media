@@ -1,4 +1,4 @@
-# CLEN 4910: Metaphor and Media
+# CLEN 4910: Metaphor and Media (Theories of Metaphor)
 
 Spring 2018  
 Prof. Dennis Tenen | dt2406 at columbia  
